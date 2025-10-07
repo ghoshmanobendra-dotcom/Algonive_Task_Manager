@@ -4,6 +4,7 @@
 The **Task Manager** is a simple yet powerful web-based task management system built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to **add**, **edit**, **delete**, and **manage** their daily tasks efficiently with **due dates** and **reminders**.  
 The app ensures task persistence using **Local Storage**, making it a perfect lightweight productivity tool.
+🌐 **Live Website:** [Click here to view the Task Manager](https://algonive-task-manager-delta.vercel.app/)
 
 ---
 
